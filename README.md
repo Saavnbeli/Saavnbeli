@@ -29,12 +29,13 @@ Hi there, I am Sawan Beli, Data Analyst and a Machine Learning enthusiast 👋
 
 ## Technologies I Use
 
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-![Jupyter](https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png)
-![TensorFlow](https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png)
-![PyTorch](https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png)
-![Scikit Learn](https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png)
-![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="70" height="70">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="70" height="70">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="70" height="70">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="70" height="70">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn" width="70" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="70">
+
 
 ## Footer
 
