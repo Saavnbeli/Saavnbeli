@@ -45,7 +45,7 @@ Hi there, I am Sawan Beli, Data Analyst and a Machine Learning enthusiast 👋
             <br /> TensorFlow
         </td>
         <td align="center" width="120" height="112.43">
-            <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="65px"/>
+            <img src="https://github.com/supreetn/supreetn/blob/main/pytorch.png?raw=true" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="120" height="112.43">
