@@ -29,24 +29,24 @@ Hi there, I am Sawan Beli, Data Analyst and a Machine Learning enthusiast 👋
 
 ## Technologies I Use
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="60" height="60">
   </div>
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="60" height="60">
   </div>
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="60" height="60">
   </div>
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="60" height="60">
   </div>
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn" width="60" height="60">
   </div>
   <div style="background-color: white; padding: 10px; border-radius: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="70">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60">
   </div>
 </div>
 
