@@ -65,7 +65,6 @@ I operate at the intersection of three powerful domains:
 ## 🎓 Education & Background
 
 - **Master's in Applied Data Science** - San Jose State University
-- **Full-Stack Software Engineering** - [Insert credential/bootcamp if applicable]
 - **Data Engineering Certification** - [AWS Certified Data Engineer- Associate](https://www.credly.com/badges/2a83a51a-1d8f-4f17-9abc-b586f4646b6f)
 
 ---
