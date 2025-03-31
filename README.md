@@ -41,9 +41,9 @@ I operate at the intersection of three powerful domains:
 | **PROJECT** | **CATEGORY** | **TECH STACK** | **DESCRIPTION** |
 |------------|--------------|----------------|-----------------|
 | [**LLM Playground**](https://github.com/Saavnbeli/llm-playground) | AI/ML | Python, PyTorch, Transformers | Experimental platform for fine-tuning and deploying custom LLMs |
-| [**DataFlow Pipeline**](https://github.com/Saavnbeli/dataflow-pipeline) | Data Engineering | Airflow, Spark, Kafka, S3 | End-to-end data pipeline for real-time analytics |
-| [**FullStack Dashboard**](https://github.com/Saavnbeli/fullstack-dashboard) | Software Engineering | React, Node.js, GraphQL, MongoDB | Interactive analytics dashboard with real-time data visualization |
-| [**MLOps Platform**](https://github.com/Saavnbeli/mlops-platform) | DevOps/ML | Docker, Kubernetes, TensorFlow, FastAPI | Infrastructure for deploying and monitoring ML models in production |
+| [**DataFlow Pipeline (Currently building locally – will be pushed to GitHub soon)**](https://github.com/Saavnbeli/dataflow-pipeline) | Data Engineering | Airflow, Spark, Kafka, S3 | End-to-end data pipeline for real-time analytics |
+| [**FullStack Dashboard (Currently building locally – will be pushed to GitHub soon)**](https://github.com/Saavnbeli/fullstack-dashboard) | Software Engineering | React, Node.js, GraphQL, MongoDB | Interactive analytics dashboard with real-time data visualization |
+| [**MLOps Platform (Currently building locally – will be pushed to GitHub soon)**](https://github.com/Saavnbeli/mlops-platform) | DevOps/ML | Docker, Kubernetes, TensorFlow, FastAPI | Infrastructure for deploying and monitoring ML models in production |
 
 </div>
 
