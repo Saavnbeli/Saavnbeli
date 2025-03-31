@@ -66,7 +66,7 @@ I operate at the intersection of three powerful domains:
 
 - **Master's in Applied Data Science** - San Jose State University
 - **Full-Stack Software Engineering** - [Insert credential/bootcamp if applicable]
-- **Data Engineering Certification** - [Insert certification if applicable]
+- **Data Engineering Certification** - [AWS Certified Data Engineer- Associate](https://www.credly.com/badges/2a83a51a-1d8f-4f17-9abc-b586f4646b6f)
 
 ---
 
@@ -94,10 +94,9 @@ graph TD
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saavns/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawanbeli/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saavnbeli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saavnsd@gmail.com)
-
 
 </div>
 
